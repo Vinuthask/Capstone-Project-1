@@ -1,6 +1,6 @@
 Perform Age distribution normalization test.
 First of all, there were almost 5 unique age units and converted all the age units to Years to perform the normalization test.
-After that, computing PDF and Histrogram to check for the normal distribution.
+After that, computing PDF and Histogram to check for the normal distribution.
 Then Extracting out the Female and Male reports. 
 Calculate the difference between the mean age of female and male.
 Compute the Two sample test to find the p-value.
@@ -12,4 +12,4 @@ Calculate the difference in proportion of serious female and male reports.
 Calculate Standard of Error, Margin of Error, and Confidence Interval.
 Compute the permutation sample replicates and find the p-value.
 From the above all tests, it proves that there is the difference between the Female and Male mean age reports. 
-Also, there is the differrence in proportion of Female and Male serious report out of total female and male reports.
+Also, there is the difference in proportion of Female and Male serious report out of total female and male reports.
